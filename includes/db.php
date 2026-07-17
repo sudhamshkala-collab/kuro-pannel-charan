@@ -3,10 +3,10 @@ define('APP_NAME', 'Charan Panel');
 define('OWNER_USER', 'CHARANYT');
 define('OWNER_PASS', 'Charan@123');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'charan_panel');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('APP_URL', 'http://localhost/charan-panel');
+define('DB_NAME', 'ywtrvsys_charan_panel');
+define('DB_USER', 'ywtrvsys_charan_panel');
+define('DB_PASS', 'rjtwyvccHXaUvku992Dd');
+define('APP_URL', 'https://charanpanel.com');
 define('TG_BOT_TOKEN', '8131839739:AAETEepNJZ0_117EFmUmckg2dH4_RLcYx3s');
 
 function db(): PDO {

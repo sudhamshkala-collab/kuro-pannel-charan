@@ -1,6 +1,3 @@
-CREATE DATABASE IF NOT EXISTS `charan_panel` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE `charan_panel`;
-
 CREATE TABLE IF NOT EXISTS `admin` (
     `id` INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     `username` VARCHAR(64) NOT NULL UNIQUE,
